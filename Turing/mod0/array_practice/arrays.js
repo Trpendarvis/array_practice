@@ -19,3 +19,6 @@ console.log(age);
 boolean.shift();
 console.log(boolean);
 //Shift will remove the first element in the Array.
+// Index positions: viewing name: "Tim" is in the 0 index position, "Allye" is 1. End is 3.
+// Index positions: in both age and boolean are the same as name listed above 0,1,2,3.
+// Index positions: always start with 0.
